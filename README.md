@@ -13,6 +13,8 @@ The reason the client wanted to collect telemetry was to answer 2 questions:
 
 In which location did machines break the most?
 What are the machines that broke most often in that location?
+ ![Screenshot 2025-02-06 141220](https://github.com/user-attachments/assets/54854e77-9fbe-43c0-a0db-6978b5bd47ee)
+
 
 
 
