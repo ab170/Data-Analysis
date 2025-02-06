@@ -1,0 +1,19 @@
+Task 1-
+
+To analyze the telemetry data collected by Daikibo using Tableau, follow these detailed:
+
+Key Points
+1.The process begins with importing Daikibo's telemetry data into Tableau following account setup.
+
+2.Users should create a new data connection via Tableau, selecting the schema containing telemetry data.
+
+3.Tableau allows users to automatically load the first 1000 rows of data upon initiation.
+
+4.Calculated fields can be generated to define specific metrics, such as an "Unhealthy" status based on device performance.
+
+5.Visualizations include bar charts for analyzing downtime both per factory and per machine.
+
+6.Dashboards can be created by arranging multiple sheets and syncing their interactions for a holistic view of the data.
+
+7.The guide emphasizes the importance of filtering and adjusting visual elements to enhance the clarity and effectiveness of the data presentation.
+
